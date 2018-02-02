@@ -4,6 +4,7 @@ this is an experiment with machine learning.
 
 in it's current form it recognizes handwritten digits from pictures, which you can try out on heroku here:
 digitreader.herokuapp.com
+the server files for the app on heroku are up on github here: https://github.com/GavinLoughridge/ml_server
 
 the neural network was made using tensorflow and the MNIST dataset.
 
